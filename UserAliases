@@ -9,3 +9,7 @@ alias aptup='sudo apt update && sudo apt upgrade'
 #mkdir create parent and child directories
 alias mkdir='mkdir -pv'
 #confirmation
+alias mv='mv -i'
+alias cp='cp -i'
+alias rm='rm -i'
+alias ln='ln -i'
