@@ -1,0 +1,11 @@
+##User Created Aliases##
+#ls with all the flags from dt
+alias ls='ls -alh --color=auto'
+#package manager aliases
+alias please='sudo'
+alias aptupd='sudo apt update'
+alias aptupg='sudo apt upgrade'
+alias aptup='sudo apt update && sudo apt upgrade'
+#mkdir create parent and child directories
+alias mkdir='mkdir -pv'
+#confirmation
